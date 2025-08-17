@@ -59,12 +59,6 @@ dotnet add package Microsoft.NET.Test.Sdk
 dotnet test
 ```
 
-### Run with Tags
-
-```bash
-dotnet test --filter "Category=api" --logger "console;verbosity=detailed"
-```
-
 ---
 
 ## 🗂 Project Structure
