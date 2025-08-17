@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\RiderProjects\\InvestecAutomation\\InvestecAutomation.csproj": {}
+    "C:\\Users\\Dell\\RiderProjects\\SpecFlowWebAutomation\\SpecFlowWebAutomation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\RiderProjects\\InvestecAutomation\\InvestecAutomation.csproj": {
+    "C:\\Users\\Dell\\RiderProjects\\SpecFlowWebAutomation\\SpecFlowWebAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\RiderProjects\\InvestecAutomation\\InvestecAutomation.csproj",
-        "projectName": "InvestecAutomation",
-        "projectPath": "C:\\Users\\Dell\\RiderProjects\\InvestecAutomation\\InvestecAutomation.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\RiderProjects\\SpecFlowWebAutomation\\SpecFlowWebAutomation.csproj",
+        "projectName": "SpecFlowWebAutomation",
+        "projectPath": "C:\\Users\\Dell\\RiderProjects\\SpecFlowWebAutomation\\SpecFlowWebAutomation.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\RiderProjects\\InvestecAutomation\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\RiderProjects\\SpecFlowWebAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
