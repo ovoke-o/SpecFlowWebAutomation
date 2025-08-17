@@ -13,7 +13,7 @@ public class WebDriverFactory
         options.AddArgument("--window-size=1920,1080");
 
         // If running in GitHub Actions or another CI system, enable headless
-        if (Environment.GetEnvironmentVariable("ui") == "true")
+        if (Environment.GetEnvironmentVariable("CI") == "true")
         {
             options.AddArgument("--headless=new");
             options.AddArgument("--disable-gpu");
