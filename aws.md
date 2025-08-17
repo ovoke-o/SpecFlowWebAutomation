@@ -60,9 +60,9 @@
 
   <p align="center">
   <!-- Replace with your own GIF or image -->
-     <img src="img-2.jpg" alt="Java Selenium animation" width="900">
-     <img src="img-3.jpg" alt="Java Selenium animation" width="900">
-     <img src="img-4.jpg" alt="Java Selenium animation" width="900">
+     <img src="img-2.png" alt="Java Selenium animation" width="900">
+     <img src="img-3.png" alt="Java Selenium animation" width="900">
+     <img src="img-4.png" alt="Java Selenium animation" width="900">
 </p>
 </ul>
 
