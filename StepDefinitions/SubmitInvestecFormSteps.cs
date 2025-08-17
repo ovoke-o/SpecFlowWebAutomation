@@ -1,9 +1,9 @@
-﻿using InvestecAutomation.Pages;
-using InvestecAutomation.Utils;
+﻿using SpecFlowWebAutomation.Pages;
+using SpecFlowWebAutomation.Utils;
 using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 
-namespace InvestecAutomation.StepDefinitions;
+namespace SpecFlowWebAutomation.StepDefinitions;
 
 [Binding]
 public class SubmitInvestecFormSteps

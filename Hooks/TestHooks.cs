@@ -1,8 +1,8 @@
 ﻿using OpenQA.Selenium;
 using TechTalk.SpecFlow;
-using InvestecAutomation.Drivers;
+using SpecFlowWebAutomation.Drivers;
 
-namespace InvestecAutomation.Hooks;
+namespace SpecFlowWebAutomation.Hooks;
 
 [Binding]
 public class TestHooks
@@ -30,6 +30,6 @@ public class TestHooks
     [AfterScenario]
     public void AfterScenario()
     {
-        //_driver?.Quit();
+        _driver?.Quit();
     }
 }

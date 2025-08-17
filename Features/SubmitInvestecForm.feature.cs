@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace InvestecAutomation.Features
+namespace SpecFlowWebAutomation.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -31,7 +31,7 @@ namespace InvestecAutomation.Features
 #line 1 "SubmitInvestecForm.feature"
 #line hidden
         
-        public SubmitInvestecFormFeature(SubmitInvestecFormFeature.FixtureData fixtureData, InvestecAutomation_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public SubmitInvestecFormFeature(SubmitInvestecFormFeature.FixtureData fixtureData, SpecFlowWebAutomation_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();

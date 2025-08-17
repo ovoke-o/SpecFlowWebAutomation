@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace InvestecAutomation.Drivers;
+namespace SpecFlowWebAutomation.Drivers;
 
 public class WebDriverFactory
 {

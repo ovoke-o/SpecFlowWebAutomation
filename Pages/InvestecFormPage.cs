@@ -1,8 +1,8 @@
-﻿using InvestecAutomation.Utils;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
+using SpecFlowWebAutomation.Utils;
 
-namespace InvestecAutomation.Pages;
+namespace SpecFlowWebAutomation.Pages;
 
 public class InvestecFormPage
 {

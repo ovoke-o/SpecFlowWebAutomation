@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace InvestecAutomation.Utils;
+namespace SpecFlowWebAutomation.Utils;
 
 public static class HelperClass
 {
