@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowWebAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e948b49617ed88f960f46b087529c8867626303c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86dc7e41a9f8cb7612bb4b2b05c3cacd8da647e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowWebAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowWebAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
