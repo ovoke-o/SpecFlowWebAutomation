@@ -26,7 +26,7 @@ This is a UI test automation framework using **C#**, **SpecFlow**, **Cucumber**,
 ### 1. Prerequisites
 
 - [Notnet 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) installed and configured in system `PATH`
-- SpecFlow for  CLI installation and setu
+- SpecFlow for  CLI installation and setup
 - Internet connection to download SpecFlow plugins
 
 ---
