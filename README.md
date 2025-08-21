@@ -6,7 +6,7 @@ This is a UI test automation framework using **C#**, **SpecFlow**, **Cucumber**,
 
 ## 🧰 Tech Stack
 
-- DotNeet 8
+- DotNet 8
 - Microsoft.NET.Test.Sdk" Version="17.8.0"
 - Selenium.WebDriver" Version="4.34.0
 - xunit" Version="2.5.3"
